@@ -58,3 +58,17 @@ djurado@cti.espol.edu.ec
 *Otras actividades
 	-Diseño de HCI
 	-Diseño de la Documentacion.
+---------------------------------------------------------------------------------------------------------------------
+
+POSIBLE PREGUNTA DE TRABAJO //El profesor lo recomendo
+
+*Coupling y Cohesion
+	-Son principios de diseño que conducen a la creacion eficiente de modulos, haciendo enfasis en sus grados
+	 de dependencia y pertenencia.
+		-Acoplamiento: EL grado de interdependencia entre los modulos de software
+		-Cohesion: Mide que tan bien las unidades modularizadas trabajan juntas, para realizar una tarea.
+			   ¿En que medida las unidades que estan agrupadas, realmente deben estar agrupadas?
+*Abstraccion 
+	-El principio de abstraccion puede clasificarse en:
+		-Abastraccion Procedimental
+		-Abstraccion de datos
