@@ -1,0 +1,60 @@
+#Clase numero 1
+#correo del maestro
+djurado@espol.edu.ec
+djurado@fiec.espol.edu.ec
+djurado@cti.espol.edu.ec
+--------------------------------------------------------------------------
+#Inicio de clases
+--------------------------------------------------------------------------
+#+->Pregunta
+#*->Tema
++Que es diseño?
+ Un dibujo o modelo(patron) mostrando como hacer algo
++Que es Software?
+ Programas de computadora, documentacion asociada, datos y archivos de configuracion
+ que son necesarios para que dichos progrmas operen correctamente
+*Proceso de desarrollo de un producto de software
+  Problema->especificacion_de_requerimientos->analisis_del_sistema->Diseño->Implementacion->Pruebas(testing)->Producto
+*Diseño de Software
+ Hay dos posibilidades para el diseño de sotfware
+	-Una de las posibilidades es hacer un diseño tan sencillo, que no tendra errores.
+	-La otra posibilidad es hacerlo tan complicado, que errores obvios no pueden ser identificados.
++Que es Diseño de Sotfware?
+ Proceso de identificar, evaluar.
+*Diseño arquitectonico
+	-Enfoque de diseño MACRO
+	-Provee modelos de caja negra que describen las capacidades y calidad esperada del sistema, desde multiples perspectivas.
+	-Muy importante para los stakeholders y la licitacion de requerimientos de caidad de servicio.
+	(stakeholdes son todos los que nos pagan, los clientes y usuarios que usaran el sistema)
+	*Varios Enfoques
+		-Data-centered
+		-Data flow
+		-Distributed
+
+*Modelo MVC (modelo vista controlador)
+
+------------------------------------------------------------------------------------------------------------
+*Diseño Detallado
+	-Diseño de caja blanca de los elementos identificados en el diseño arquitectonico
+	-Se enfoca en determinar como implementar los requerimientos funcionales.
+	
+		-En sistemas orientados a objetos, el diseño 
+		 detallado es el hecho de identificar cuales son las
+		 clases que componen un sistema, las interfaces de 
+		 comunicacion y como interactuan.
+
+*Diseño Detallado:Actividades
+	Interface Design
+		-Determinar como los componentes de sotfware se comunicaran externa e iternamente.
+		-Ejemplo:decidir si componentes se comunicaran a traces de APIS o compartiendo archivos XML
+	Componetn Design
+		-Determinar como sera la estructura interna del sistema y el comportamiento del mismo
+		
+--------------------------------------------------------------------------------------------------------------------
+
+*Diseño de Construccion
+	-Ultima actividad de diseño, antes de empezar a programar.
+	-Va de la mano con el diseño detallado;en sistemas OO se identifican los atributos y funciones de las clases.
+*Otras actividades
+	-Diseño de HCI
+	-Diseño de la Documentacion.
