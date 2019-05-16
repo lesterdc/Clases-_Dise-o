@@ -1,0 +1,21 @@
+#Segunda clase de diseño 16/05/2019
+*Retos del diseño de SOtfware
+	1.-Requerimientos cambiantes
+	2.-Naturalea de los procesos
+	3.-Cambios Tecnologicos
+	4.-Practicas Eticas y Profesionales
+	5.-Influencia de los Stakeholders
+*Importancia del diseño de software
+	+Durante ka fase de diseño, el sistema es descompuesto para permitir
+	 un optimo desarrollo de software.
+		-Requerimientos son mapeados a modelos conceptuales, las interfaces
+		 son creadas.
+		-Los atributos de calidad son tratados e incorporados en el
+		 diseño de software.
+	+Dominar principios para diseñar software es escencial para implementar
+	 productos de software exitosos.
+	+Podemos analizar su importancia desde dos perspectivas.
+		-Desarrollo e implementacion del producto
+		-Administracion del proyecto.
+------------------------------------------------------------------------------
+
