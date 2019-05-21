@@ -1,0 +1,41 @@
+#Clase 3 de Diseño de Software
++Requerimientos(IEEE)
+	-Condicion do capacidad requerida por el usuario para resolver un problema
+	 o alcanzar un objetivo
+	-Condicion o capacidad que debe satisfacer o poseer un sistema o una componente
+	 de un sistema para satisfacer un contrato,un standard, una especificacion y otro
+	 documento formalmente impuesto.
+	-Representacion documentada de una condicion o capacidad como en 1 o 2.
++Requerimientos:Proposito
+	-El problema nunca es evidente
+	-Es necesario definir cual es el problema y como debe resolverse
+		-Descripcion general del estado actual
+		-Cuales son las caracteristicas que el sistema debe tener?
+		-Que funciones no seran incluidas?
+		-Requerimientos No-Funcionales:Requerimiento,desponibilidad
+		-Presupuesto? Tiempo?
+	-Es necesario ser muy explicito
++Ingeneria de Requerimientos 
+	1.-Determinar requerimientos
+	2.-Especificarlo
+	3.-Analizarlos
+		-Estan completos?
+		-Son consistentes?
+		-Precisos?
+		-Factibles?
+	4.-Simular escenarios de ser necesario
+	5.-Descartar lo que no se puede hacer
+----------------------------------------------------------------------
+leccion proxima semana
+Que es diseño?
+Sobre the box
+Que es MVC?
+Sobre git
+---------------------------------------------------------------------
+Beneficios de Box
+	-Velocidad:Peticiones de los clientes
+	-Entrega rapida:Integracion continua
+	-Fiabilidad:Actualizaciones probadas
+	-Escalado:Infraestructura-Nube
+	-Colaboracion mejorada: Equipos
+	-Seguridad: Politicas
