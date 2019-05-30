@@ -1,0 +1,33 @@
+Concer y Orientacion a Aspectos
+	-La Orientacion a Aspectos se basa en la idea de que los sistemas pueden ser implementados de 
+	 mejor manera, si sus distintos concerns, si sus distintos concerns son implementados por separado
+	-Los Aspectos son las abstracciones que representan a los Concerns Trasversales. Se puede decir que los Aspectos son los Concerns Trasversales
+	 modelados.
+
+Que son los aspectos?
+	*Son similares a las clases:
+		-Tienen un tipo
+		-Pueden extender a clases y a otros aspectos
+		-Puedn ser abstractos o concretos
+		-Pueden tener campos, metodos, etc
+	*Se diferencias de las clases:
+		-Continen advide(codigo que implementa un concern) y pointcuts(sentecnia que especifica donde el advide sera ejecutado)
+			(los poincuts basicamente me me dicen cuando se ejecuta o debo ejecutarlo, antes o despues)
+		-No tienen constructores (porque no se instancian)
+		-Existen una categoria denominada "Aspectos privilegiados" que tienen mayo control del sistema.
+	*Similitudes
+		-Permiten modularizar codigo
+			+Facilitan la reutilizacion de codigo
+			+Facilitan a mantenibilidad
+	*Diferencias
+		-OO permite modularizar un sistema en terminos de objetos de la vida real.
+		-OA permite modularizar en base a concers.
+Por que orientacion a aspectos?
+	*Problemas con el enfoque tradicional de Orientacion a Objetos:
+		-OOP divide concrns en clases y metodos
+		-Dichar clases y metodos frecuentemente son necesarios en varios procesos.
+			+Esto lleva a que se 
+Tangling
+	Ocurre cuando un modulo incluye ......
+Scattering 
+	-Ocurre cuando un concern se encuentra implementado de manera dispersa, en varios modulos
