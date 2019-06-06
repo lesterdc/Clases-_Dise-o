@@ -1,0 +1,21 @@
+06/06/2019
+*SOA-SERVICE ORIENTED ARCHITECTURE
+*Caracteristicas de SOA
+  -Es el nucleo del paradigma SOC(Service Oriented Computing)
+  -Incrementa la calidad del servicio
+  -Mayor interoperabilidad                                       (me permite distribuir la tarea en otra pc)
+  -Acoplamiento debil
+  -Facil integracion
+  -Incremento de reutilizacion
+  -Reduccion de costos
+*Definicion
+  -Service Oriented Computing (SOC) es un paradigma multi-disciplinario para la computacion distribuida que permite
+   diseñar aplicaciones pensado en como seran consumidas.
+  -SOC utiliza los servicios como su base principal para crear aplicaciones disribuidas incluso en ambientes hererogeneos
+   permitiendo ----
+*Comparando Caracteristicas
+  Motodologias
+    +OO
+      -Desarrollo de aplicaiones identificandolas clases que estan aclopadas fuertemente. Basandose en la herencia y los relaciones
+       entre los objetos
+     
